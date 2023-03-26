@@ -1,5 +1,5 @@
 
-## Improvement Plans
+## Coding Goals
 
 - Learn Python.
 - Create More Public Discord Bots.
