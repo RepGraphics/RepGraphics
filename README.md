@@ -3,6 +3,7 @@
 
 - Learn Python.
 - Create More Public Discord Bots.
+- Update Public Bots to Newest Discord.JS Version.
 
 
 ## Github Information
