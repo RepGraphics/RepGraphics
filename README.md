@@ -5,6 +5,7 @@
 - Create More Public Discord Bots.
 - Update Public Bots to Newest Discord.JS Version.
 - Create a Website for Project Era.
+- Web Version of Master Controller.
 
 
 ## Github Information
