@@ -4,6 +4,7 @@
 - Learn Python.
 - Create More Public Discord Bots.
 - Update Public Bots to Newest Discord.JS Version.
+- Create a Website for Project Era.
 
 
 ## Github Information
