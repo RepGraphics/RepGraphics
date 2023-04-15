@@ -4,7 +4,6 @@
 - Learn Python.
 - Create More Public Discord Bots.
 - Update Public Bots to Newest Discord.JS Version.
-- 
 
 ## Github Information
 <img align="center" alt="Rep's Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RepGraphics&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
