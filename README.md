@@ -28,11 +28,6 @@ Welcome to my GitHub profile! Here, you'll discover a collection of my projects,
 </a>
 <br />
 
-<a href="https://paypal.me/repgraphics?country.x=GB&locale.x=en_GB">
-  <img src="https://img.shields.io/badge/PayPal-Donate-blue?style=for-the-badge&logo=paypal&logoColor=white" alt="PayPal">
-</a>
-<br />
-
 <a href="https://discord.gg/GwJKw7KP9J">
   <img src="https://img.shields.io/discord/812467944420409355?color=blueviolet&label=Discord&logo=discord&logoColor=white&style=for-the-badge" alt="Discord">
 </a>
