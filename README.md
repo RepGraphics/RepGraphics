@@ -14,6 +14,9 @@ Welcome to my GitHub profile! Here you’ll find a collection of my projects, co
 
 ## **🔗 Connect With Me**
 
+- ### **Sponsor My Work**  
+  [![Sponsor](https://img.shields.io/badge/Sponsor-GitHub%20Sponsors-pink?style=for-the-badge&logo=githubsponsors&logoColor=white)](https://github.com/sponsors/RepGraphics)
+
 - ### **YouTube**  
   [![YouTube](https://img.shields.io/youtube/channel/subscribers/UCVlqnigRMu-OkQ4Xf5YDrrA?label=Subscribe&logo=youtube&style=for-the-badge)](https://www.youtube.com/channel/UCVlqnigRMu-OkQ4Xf5YDrrA)
 
@@ -21,10 +24,10 @@ Welcome to my GitHub profile! Here you’ll find a collection of my projects, co
   [![PayPal](https://img.shields.io/badge/PayPal-Donate-blue?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/repgraphics?country.x=GB&locale.x=en_GB)
 
 - ### **Join the Community**  
-  [![Discord](https://img.shields.io/discord/812467944420409355?color=blueviolet&label=Discord&logo=discord&logoColor=white&style=for-the-badge)](https://discord.gg/Cus2zP4pPH)
+  [![Discord](https://img.shields.io/discord/812467944420409355?color=blueviolet&label=Discord&logo=discord&logoColor=white&style=for-the-badge)](https://discord.gg/GwJKw7KP9J)
 
 - ### **Check Out Project Era**  
-  [![Project Era](https://img.shields.io/website?down_color=Red&down_message=Offline&label=euphoriadevelopment.uk&style=for-the-badge&up_color=Green&up_message=Online&url=https%3A%2F%2Feuphoriadevelopment.uk)](https://euphoriatheme.uk)
+  [![Project Era](https://img.shields.io/website?down_color=Red&down_message=Offline&label=euphoriadevelopment.uk&style=for-the-badge&up_color=Green&up_message=Online&url=https%3A%2F%2Feuphoriadevelopment.uk)](https://euphoriadevelopment.uk)
 
 ---
 
