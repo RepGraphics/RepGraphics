@@ -7,11 +7,13 @@ Welcome to my GitHub profile! Here, you'll discover a collection of my projects,
 
 ## **📊 GitHub Stats**
 
-![RepGraphics's Stats](https://github-readme-stats.vercel.app/api?username=RepGraphics&theme=dark&show_icons=true&hide_border=true&count_private=true)
+[![Anurag's GitHub stats-Dark](./profile/stats-dark.svg#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![Anurag's GitHub stats-Light](./profile/stats.svg#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
 
 ![RepGraphics's Streak](https://github-readme-streak-stats.herokuapp.com/?user=RepGraphics&theme=dark&hide_border=true)
 
-![RepGraphics's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RepGraphics&theme=dark&show_icons=true&hide_border=true&layout=compact)
+[![Top Langs](./profile/top-langs-dark.svg#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![Top Langs](./profile/top-langs.svg#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
 
 ---
 
