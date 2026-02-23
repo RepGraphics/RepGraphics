@@ -1,11 +1,23 @@
 <div align="center">
 
-# **🌟 Welcome to RepGraphics' GitHub Profile 🌟**
-Welcome to my GitHub profile! Here, you'll discover a collection of my projects, contributions, and stats. Feel free to explore and connect with me through the links below. 🚀
+# RepGraphics
+
+Full-Stack Developer • Self-Taught • University of Brighton
+
+I build practical products and open-source tools, with a focus on clean implementation, usability, and maintainable code.
 
 ---
 
-## **📊 GitHub Stats**
+## About
+
+Based in the United Kingdom, I work across web development and plugin tooling through the Euphoria ecosystem.
+
+- Organization: [@EuphoriaDevelopmentOrg](https://github.com/EuphoriaDevelopmentOrg)
+- Website: [euphoriadevelopment.uk](https://euphoriadevelopment.uk)
+
+---
+
+## GitHub Statistics
 
 ![RepGraphics's Stats](./profile/stats-dark.svg#gh-dark-mode-only)
 ![RepGraphics's Stats](./profile/stats.svg#gh-light-mode-only)
@@ -17,7 +29,26 @@ Welcome to my GitHub profile! Here, you'll discover a collection of my projects,
 
 ---
 
-## **🔗 Connect With Me**
+## Coding Languages
+
+<img src="https://img.shields.io/badge/EJS-B4CA65?style=for-the-badge&logo=ejs&logoColor=black" alt="EJS">
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+<img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS">
+<img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML">
+
+---
+
+## Featured Work
+
+- [clear-window](https://github.com/RepGraphics/clear-window) — university project site for Politics, Sexuality & Gender.
+- [EuphoriaMessages-Endstone](https://github.com/EuphoriaDevelopmentOrg/EuphoriaMessages-Endstone) — configurable Endstone messaging system.
+- [EuphoriaParties-Endstone](https://github.com/EuphoriaDevelopmentOrg/EuphoriaParties-Endstone) — party system with teleportation and HUD features.
+- [VeinMiner-Endstone](https://github.com/EuphoriaDevelopmentOrg/VeinMiner-Endstone) — configurable ore/log vein-mining plugin.
+- [EuphoriaTheme/frontend](https://github.com/EuphoriaTheme/frontend) — frontend for the Euphoria Theme site.
+
+---
+
+## Connect
 
 <a href="https://github.com/sponsors/RepGraphics">
   <img src="https://img.shields.io/badge/Sponsor-GitHub%20Sponsors-pink?style=for-the-badge&logo=githubsponsors&logoColor=white" alt="GitHub Sponsors">
@@ -40,6 +71,7 @@ Welcome to my GitHub profile! Here, you'll discover a collection of my projects,
 
 ---
 
-### 🌟 Thank you for visiting! Feel free to explore my repositories and connect. 🌟
+### Thanks for visiting.
+If you'd like to collaborate, sponsor, or discuss a project, feel free to connect through the links above.
 
 </div>
