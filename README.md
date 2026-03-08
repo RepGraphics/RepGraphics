@@ -13,6 +13,7 @@ I build practical products and open-source tools, with a focus on clean implemen
 Based in the United Kingdom, I work across web development and plugin tooling through the Euphoria ecosystem.
 
 - Organization: [@EuphoriaDevelopmentOrg](https://github.com/EuphoriaDevelopmentOrg)
+- Organization: [@EuphoriaTheme](https://github.com/EuphoriaTheme)
 - Website: [euphoriadevelopment.uk](https://euphoriadevelopment.uk)
 
 ---
